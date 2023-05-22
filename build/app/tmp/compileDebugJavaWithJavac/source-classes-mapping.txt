@@ -1,0 +1,4 @@
+com/mymoney/BuildConfig.java
+ com.mymoney.BuildConfig
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
